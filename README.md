@@ -14,4 +14,4 @@ Whenever a user enters transactions offline, they are stored in the indexedb (a 
 ![Budget Tracker](/public/icons/transactionView.png)
 
 Here is the deployed application: 
-[Check out Budget Tracker on Heroku!]()
+[Check out Budget Tracker on Heroku!](https://secret-beach-48232.herokuapp.com/)
